@@ -1,0 +1,9 @@
+{
+  "name": "LUSOTOKEN",
+  "symbol": "LUSO",
+  "description": "LUSOTOKEN é o primeiro token comunitário português na blockchain Solana.",
+  "image": "https://raw.githubusercontent.com/LusoToken/token-list/main/assets/mainnet/5iufFSt9gj4qRQREUsQ2B9KefSjEC2skgBu8Yvsnpump.png",
+  "decimals": 6,
+  "website": "https://lusotoken.riker.repl.co",
+  "tags": ["community", "portugal", "meme"]
+}
